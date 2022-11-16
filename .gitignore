@@ -1,0 +1,5 @@
+node_modules
+build
+.openzeppelin
+_readme.txt
+.env
